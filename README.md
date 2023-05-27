@@ -6,3 +6,5 @@ Hey kids, do you like endorsing entire GCRs in 5 minutes? Me too, heres somethin
 2. Run ``install_requirements.bat``
 3. Run ``start.bat``
 4. Follow terminal instructions until it's done
+
+Telegram https://www.nationstates.net/nation=thorn1000 or message me on discord @Thorn1000#3850 if something goes wrong :)
